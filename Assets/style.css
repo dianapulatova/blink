@@ -104,4 +104,9 @@ body {
 
 
 
- 
+ /* *{
+   background-color: rgb(252, 229, 239);
+ } */
+ .bg-color{
+   background-color: rgb(252, 229, 239);
+ }
